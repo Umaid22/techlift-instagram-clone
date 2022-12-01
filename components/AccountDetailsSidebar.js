@@ -1,9 +1,11 @@
 import React from 'react'
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const AccountDetailsSidebar = () => {
   return (
     <React.Fragment>
-        <div>
+        <div className='border border-primary'>
             <div>
                 <div>
                     umaid_22
